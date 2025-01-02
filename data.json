@@ -9,7 +9,7 @@
 						"name": "Tomato Toast",
 						"price": 29,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "../assets/menu/image-01.jpg",
+						"img": "./src/assets/menu/image-01.jpg",
 						"tags": ["vegan"]
 					},
 					{
