@@ -9,7 +9,7 @@
 						"name": "Tomato Toast",
 						"price": 29,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-01.jpg",
+						"img": "./src/assets/menu/image-01.jpg",
 						"tags": ["vegan"]
 					},
 					{
@@ -23,7 +23,7 @@
 						"name": "Pumpkin Soup",
 						"price": 5,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-03.jpg",
+						"img": "./src/assets/menu/image-03.jpg",
 						"tags": ["special"],
 						"label": "Starter of the Day"
 					}
@@ -37,20 +37,20 @@
 						"name": "Delicious Pancakes",
 						"price": 29,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-04.jpg"
+						"img": "./src/assets/menu/image-04.jpg"
 					},
 					{
 						"name": "Sweet Heaven",
 						"price": 5,
 						"oldPrice": 8,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-04.jpg"
+						"img": "./src/assets/menu/image-04.jpg"
 					},
 					{
 						"name": "Oatmeal Spirit",
 						"price": 5,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-05.jpg",
+						"img": "./src/assets/menu/image-05.jpg",
 						"tags": ["special"],
 						"label": "Breakfast of the Day"
 					},
@@ -58,7 +58,7 @@
 						"name": "Avocado Smash",
 						"price": 5,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-06.jpg"
+						"img": "./src/assets/menu/image-06.jpg"
 					}
 				]
 			},
@@ -70,7 +70,7 @@
 						"name": "Italian Pizza",
 						"price": 29,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-07.jpg",
+						"img": "./src/assets/menu/image-07.jpg",
 						"tags": ["vegan"]
 					},
 					{
@@ -78,13 +78,13 @@
 						"price": 5,
 						"oldPrice": 8,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-08.jpg"
+						"img": "./src/assets/menu/image-08.jpg"
 					},
 					{
 						"name": "Vegan Burger",
 						"price": 5,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-09.jpg",
+						"img": "./src/assets/menu/image-09.jpg",
 						"tags": ["vegan", "special"],
 						"label": "Lunch of the Day"
 					},
@@ -92,7 +92,7 @@
 						"name": "Noodle Bowl",
 						"price": 5,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-10.jpg"
+						"img": "./src/assets/menu/image-10.jpg"
 					}
 				]
 			},
@@ -104,7 +104,7 @@
 						"name": "Panthouse Tonic",
 						"price": 29,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-11.jpg",
+						"img": "./src/assets/menu/image-11.jpg",
 						"tags": ["vegan"]
 					},
 					{
@@ -112,13 +112,13 @@
 						"price": 5,
 						"oldPrice": 8,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-12.jpg"
+						"img": "./src/assets/menu/image-12.jpg"
 					},
 					{
 						"name": "Frenchman Blitz",
 						"price": 5,
 						"description": "Lorem ipsum dolor sit amet, consectetur",
-						"img": "/src/assets/menu/image-13.jpg"
+						"img": "./src/assets/menu/image-13.jpg"
 					}
 				]
 			}
